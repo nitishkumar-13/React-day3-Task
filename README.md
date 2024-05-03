@@ -1,4 +1,4 @@
-# React shopping cart Task - Day3 task
+# React shopping cart Task - Day3 task14
 *****************************************
 * Vite+React was used to create this application, which includes a simple shopping cart application with different prices shown on the user interface. 
  
